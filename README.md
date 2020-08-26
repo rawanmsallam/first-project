@@ -1,3 +1,3 @@
 # first-project
 training GSG
-##project Notes
+## project Notes
